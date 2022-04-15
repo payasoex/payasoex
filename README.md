@@ -8,7 +8,7 @@
 - 📫 How to reach me ... 
 
     * Email:    javier.retamal.fontannaz@gmail.com
-    * Twitter:  retamal_f
+    * Twitter:  [retamal_f](https://twitter.com/retamal_f)
 
 <!---
 payasoex/payasoex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
