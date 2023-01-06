@@ -4,7 +4,7 @@
 - 👀 I’m interested in web development and mobile apps (front and back end)
 - 👨‍🔬 I like science, specially cancer research.
 - 🌱 I’m currently learning JavaScript, CSS, HTML and some JS frameworks
-- 💞️ I’m looking to collaborate on web depelopment oriented to Cancer Research and Scientific dissemination.
+- 💞️ I’m looking to collaborate on web depelopment
 - 📫 How to reach me ... 
 
     * Email:    javier.retamal.fontannaz@gmail.com
