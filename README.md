@@ -8,4 +8,4 @@
 
     * Email:    contacto@javiretamal.dev
     * Twitter:  [retamal_f](https://twitter.com/retamal_f)
-    * Webpage:  <a href="https://javiretamal.dev" target="_blank">click here</a>
+    * Webpage:  [click here](https://javiretamal.dev){:target="_blank"}
