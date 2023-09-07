@@ -1,16 +1,11 @@
 # Hi Everyone!
 
-- 👋 Hi, I’m @payasoex, a ***Biotechnologist*** and ***MSc*** in applied cellular and molecular biology .
+- 👋 Hi, I’m @payasoex, a Fullstack Developer from South Chile!.
 - 👀 I’m interested in web development and mobile apps (front and back end)
-- 👨‍🔬 I like science, specially cancer research.
-- 🌱 I’m currently learning JavaScript, CSS, HTML and some JS frameworks
-- 💞️ I’m looking to collaborate on web depelopment
+- 👨‍🔬 I like science, especially cancer research.
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ... 
 
-    * Email:    javier.retamal.fontannaz@gmail.com
+    * Email:    contacto@javiretamal.dev
     * Twitter:  [retamal_f](https://twitter.com/retamal_f)
-
-<!---
-payasoex/payasoex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    * Webpage:  [Click here](httpw://javiretamal.dev)
